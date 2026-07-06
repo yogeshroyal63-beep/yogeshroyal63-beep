@@ -26,7 +26,7 @@
 
 ![git](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white) ![github](https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logoColor=white) ![vscode](https://img.shields.io/badge/-vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![vercel](https://img.shields.io/badge/-vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![railway](https://img.shields.io/badge/-railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yogeshroyal63-beep&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshroyal63-beep&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent)
+![Yogesh's github stats](https://github-readme-stats-iota-coral-64.vercel.app/api?username=yogeshroyal63-beep&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshroyal63-beep&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yogeshroyal63-beep/yogeshroyal63-beep/output/github-contribution-grid-snake.svg)
 
