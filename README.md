@@ -1,90 +1,33 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6C63FF&height=180&section=header&text=Hi,%20I'm%20Yogesh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
-<h3 align="center">B.Tech CSE (Software Product Engineering) @ Kalasalingam Academy of Research and Education</h3>
+# 👨‍💻 Hi, I'm Yogesh, a Developer 🚀 from India.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Building+across+full-stack+web%2C+AI%2FML+and+Web3;Exploring+behavioral+biometrics+%26+applied+ML;Turning+hackathon+ideas+into+shipped+products" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0366d6?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singam-shetty-yogesh-rayal-78526a381) [![Email](https://img.shields.io/badge/-Email-f66a0a?style=flat&logo=gmail&logoColor=white)](mailto:yogeshroyal63@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yogeshroyal63-beep)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/singam-shetty-yogesh-rayal-78526a381">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yogeshroyal63@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## Talking about Personal Stuffs:
 
----
+- 🎓 I'm a first-year CSE (Software Product Engineering) student at Kalasalingam Academy of Research and Education;
+- 👨🏽‍💻 I'm currently working on **GhostID**, a behavioral biometrics SDK for continuous session verification;
+- 🌱 I'm currently learning deep learning fundamentals & applied ML for AI research roles;
+- 👯 I'm looking to collaborate on full-stack + AI/ML projects🤝;
+- 🤔 I'm looking for help with internship opportunities in software engineering / applied AI😭;
+- 💬 Ask me about LSTMs, keystroke dynamics, or full-stack architecture;
+- 📫 How to reach me: <yogeshroyal63@gmail.com>;
 
-### 🧭 About Me
+## Technologies I'm Learning 📚
 
-- 🎓 First-year CSE student in a Kalvium-powered Software Product Engineering program (2025–2029)
-- 🔭 Currently building a portfolio spanning **AI/ML research, full-stack products, and Web3 systems**
-- 🧪 Working on **GhostID** — a behavioral biometrics SDK — as a potential research publication
-- 🏆 Active hackathon builder: 6+ hackathons in the last few months across AI, fintech, and Web3 tracks
-- 🌱 Currently deepening my ML fundamentals (linear algebra, model architectures) for AI research roles
-- 💬 Ask me about LSTMs, keystroke dynamics, or full-stack architecture
+![java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white) ![javascript](https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![solidity](https://img.shields.io/badge/-solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
----
+![react](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![nodejs](https://img.shields.io/badge/-nodejs-339933?style=flat-square&logo=node.js&logoColor=white) ![express](https://img.shields.io/badge/-express-000000?style=flat-square&logo=express&logoColor=white) ![fastapi](https://img.shields.io/badge/-fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🎯 Currently Focused On
+![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![huggingface](https://img.shields.io/badge/-huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![onnx](https://img.shields.io/badge/-onnx-005CED?style=flat-square&logo=onnx&logoColor=white) ![scikitlearn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-- Building full-stack products end-to-end — from backend architecture to polished frontends
-- Applying ML to real-world problems (behavioral biometrics, NLP, conversational AI)
-- Getting hands-on with Web3 — smart contracts and on-chain systems
-- Competing in hackathons to ship fast and learn by building
-- Strengthening ML fundamentals (linear algebra, deep learning) for AI research roles
+![mongodb](https://img.shields.io/badge/-mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white) ![sqlite](https://img.shields.io/badge/-sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![gcp](https://img.shields.io/badge/-gcp-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-> 📌 Check out my **pinned repositories** below for a look at what I've built so far — more to come as I grow through this program.
+![git](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white) ![github](https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logoColor=white) ![vscode](https://img.shields.io/badge/-vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![vercel](https://img.shields.io/badge/-vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![railway](https://img.shields.io/badge/-railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
----
+![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yogeshroyal63-beep&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshroyal63-beep&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent)
 
-### 🛠️ Tech Stack
+![github contribution grid snake animation](https://raw.githubusercontent.com/yogeshroyal63-beep/yogeshroyal63-beep/output/github-contribution-grid-snake.svg)
 
-**Languages:** Java · Python · JavaScript · Solidity
-**Frontend:** React · Vite · Tailwind CSS · Three.js
-**Backend:** Node.js · Express · FastAPI
-**Data / ML:** PyTorch · Hugging Face Transformers · ONNX · scikit-learn
-**Databases:** MongoDB · SQLite
-**Web3:** Solidity · Ethers.js · Hardhat
-**Tools:** Docker · GitHub Actions · Vercel · Railway · Google Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,fastapi,mongodb,solidity,docker,gcp,git" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yogeshroyal63-beep&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshroyal63-beep&layout=compact&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yogeshroyal63-beep/yogeshroyal63-beep/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> ⚠️ This animated snake needs a one-time setup — see the note below the divider.
-
----
-
-### 📫 Let's Connect
-
-I'm currently exploring internship opportunities in software engineering and applied AI/ML. Feel free to reach out!
-
-<p>
-  <a href="https://www.linkedin.com/in/singam-shetty-yogesh-rayal-78526a381">LinkedIn</a> ·
-  <a href="mailto:yogeshroyal63@gmail.com">Email</a> ·
-  <a href="https://github.com/yogeshroyal63-beep">GitHub</a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0A66C2&height=100&section=footer" />
+⭐️ From [Yogesh](https://github.com/yogeshroyal63-beep)
