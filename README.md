@@ -2,7 +2,7 @@
 
 # 👨‍💻 Hi, I'm Yogesh — a Developer from India
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0366d6?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singam-shetty-yogesh-rayal-78526a381) [![Email](https://img.shields.io/badge/-Email-f66a0a?style=flat&logo=gmail&logoColor=white)](mailto:yogeshroyal63@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yogeshroyal63-beep)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0366d6?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singam-shetty-yogesh-rayal-78526a381/) [![Email](https://img.shields.io/badge/-Email-f66a0a?style=flat&logo=gmail&logoColor=white)](mailto:yogeshroyal63@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yogeshroyal63-beep)
 
 ## About Me
 
