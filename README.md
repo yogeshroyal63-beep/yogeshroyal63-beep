@@ -10,6 +10,8 @@ I'm a second-year CSE (Software Product Engineering) student at Kalasalingam Aca
 
 ## Featured Projects
 
+**Causal Drift Sentinel** — Root-cause diagnosis agent for silent ML model drift, built for The DataHub Agent Hackathon (Production ML Agents Track). A FastAPI backend detects drift statistically (KS-test, PSI, embedding centroid drift) via DataHub's MCP server, traces the lineage DAG backward to isolate the genuine upstream cause, then a Groq-powered LLM reasons over that evidence to explain the finding in plain language — grounded so it can't invent a cause the algorithm didn't isolate — and writes back a DataHub incident plus a GitHub issue with a suggested fix. Ships with a React (Vite) console and a full mock-data demo mode for end-to-end runs without a live DataHub instance.
+
 **GhostID** — AI-powered continuous authentication that prevents session hijacking using behavioral biometrics with zero user friction. A 2-layer LSTM trained on the CMU Keystroke Dynamics dataset uses ratio-preserved typing features that survive speed variation, so an impostor can't spoof identity by typing faster or slower. Ships as a FastAPI backend, JS SDK, and React dashboard, with the model exported to ONNX.
 
 **MedAssist** — Full-stack healthcare platform with React/Vite frontend, Node.js/Express backend, and a separate Python FastAPI service running a BERT-based triage engine to route patient symptoms. Supports live video consultations over WebRTC and real-time chat via Socket.io, fully orchestrated with Docker Compose.
